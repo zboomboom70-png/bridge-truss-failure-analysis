@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="0.0000" file="debris_particles_0000.vtk"/>
+    <DataSet timestep="0.2000" file="debris_particles_0001.vtk"/>
+    <DataSet timestep="0.4000" file="debris_particles_0002.vtk"/>
+    <DataSet timestep="0.6000" file="debris_particles_0003.vtk"/>
+    <DataSet timestep="0.8000" file="debris_particles_0004.vtk"/>
+    <DataSet timestep="1.0000" file="debris_particles_0005.vtk"/>
+    <DataSet timestep="1.2000" file="debris_particles_0006.vtk"/>
+    <DataSet timestep="1.4000" file="debris_particles_0007.vtk"/>
+    <DataSet timestep="1.6000" file="debris_particles_0008.vtk"/>
+    <DataSet timestep="1.8000" file="debris_particles_0009.vtk"/>
+    <DataSet timestep="2.0000" file="debris_particles_0010.vtk"/>
+    <DataSet timestep="2.2000" file="debris_particles_0011.vtk"/>
+  </Collection>
+</VTKFile>
